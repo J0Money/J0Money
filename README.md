@@ -45,5 +45,3 @@ IT Architecture student in Denmark with a passion for AI, fullstack development 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollupdotjs&logoColor=white)
-
-📫 Find me on [GitHub](https://github.com/J0Money)
