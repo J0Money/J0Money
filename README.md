@@ -24,7 +24,7 @@ IT Architecture student in Denmark with a passion for AI, fullstack development 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0078D4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=umbraco&logoColor=white)
-![Payload CMS](https://img.shields.io/badge/Payload_CMS-F97316?style=for-the-badge&logoColor=white)
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logoColor=white)
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
