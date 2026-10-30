@@ -7,6 +7,8 @@ Softwareudvikler-studerende fra Danmark, med fokus på fullstack-udvikling i .NE
 
 #### Udvalgte projekter
 
+- 🔗 [**din-laasesmed-payload**](https://github.com/J0Money/din-laasesmed-payload): Website til Din Låsesmed (Next.js + Payload CMS)
+- 🔗 [**zet**](https://github.com/J0Money/zet): Next.js-app med øvelseskatalog, invitationer og autentificering
 - 🔗 [**kreddit-fullstack**](https://github.com/J0Money/kreddit-fullstack): Fullstack Reddit-klon (Blazor WASM frontend + ASP.NET Core Web API + EF Core)
 - 🔗 [**OnlineService**](https://github.com/J0Money/OnlineService) / [**OnlineServiceAPI**](https://github.com/J0Money/OnlineServiceAPI): Eksamensprojekt, 4. semester
 - 🔗 [**SupportWebApp**](https://github.com/J0Money/SupportWebApp): Blazor WebApp med Azure Cosmos DB
