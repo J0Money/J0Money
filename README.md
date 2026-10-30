@@ -46,9 +46,4 @@ IT Architecture student in Denmark with a passion for AI, fullstack development 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollupdotjs&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Joachim's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0Money&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J0Money&layout=compact&theme=tokyonight&hide_border=true)
-
 📫 Find me on [GitHub](https://github.com/J0Money)
