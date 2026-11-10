@@ -1,6 +1,8 @@
 # Hi, I'm Joachim
 
-I study IT Architecture in Denmark and build web apps with Next.js, TypeScript, and .NET. I like working across the stack, from the UI to the API and database. I'm also interested in AI and how cloud systems are put together.
+I study IT Architecture in Denmark and build web apps with Next.js, TypeScript, and .NET. I enjoy working on both the frontend and the backend because I get to see how the whole app fits together.
+
+I'm curious about what happens behind the scenes when someone uses an app. I like following a request from the browser through the API to the database and figuring out where things go wrong. I'm also interested in AI and in how apps are deployed and run in the cloud.
 
 ## Tech Stack
 
