@@ -1,19 +1,6 @@
-# Hi there, I'm J0Money 👋
+# Hi, I'm Joachim
 
-I'm Joachim, an IT Architecture student based in Denmark with an interest in AI and cloud and data architecture.
-
-I'm a passionate and curious developer with a strong interest in **fullstack development, software architecture, and building modern web applications**.
-
-I enjoy working across the entire development process — from designing intuitive user interfaces to developing backend systems, APIs, and database solutions.
-
-I'm continuously expanding my technical skills, exploring new technologies, and improving the way I approach software development.
-
-### What I'm focused on
-
-- Building modern and scalable fullstack applications
-- Developing clean, maintainable, and well-structured code
-- Exploring software architecture, cloud technologies, and system integrations
-- Turning ideas and real-world problems into functional digital solutions
+I study IT Architecture in Denmark and build web apps with Next.js, TypeScript, and .NET. I like working across the stack, from the UI to the API and database. I'm also interested in AI and how cloud systems are put together.
 
 ## Tech Stack
 
@@ -44,6 +31,3 @@ I'm continuously expanding my technical skills, exploring new technologies, and 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Featured Projects
-
-Explore my pinned repositories below to see some of the projects I've worked on.
