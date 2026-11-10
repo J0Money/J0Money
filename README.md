@@ -2,7 +2,7 @@
 
 I study IT Architecture in Denmark and build web apps with Next.js, TypeScript, and .NET. I enjoy working on both the frontend and the backend because I get to see how the whole app fits together.
 
-I'm curious about what happens behind the scenes when someone uses an app. I like following a request from the browser through the API to the database and figuring out where things go wrong. I'm also interested in AI and in how apps are deployed and run in the cloud.
+I'm curious about AI and enjoy keeping up with what's new. When I come across a tool or an idea that looks interesting, I like trying it out in a small project to see what I can do with it.
 
 ## Tech Stack
 
